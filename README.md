@@ -6,6 +6,9 @@
 - douban2.py
 实现爬取受欢迎书评
 
+- douban3.py
+豆瓣读书首页第一屏图书封面图下载，图片命名为书名，存放到指定路径（新学习urllib.request.urlretrieve()方法）
+
 #代码提交
 - 查看当前修改的哪些文件
 git status
