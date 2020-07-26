@@ -1,3 +1,7 @@
 # douban_book_names
 
-## 实现了简单翻页爬取书名功能
+- douban.py 
+实现简单翻页和爬取书名
+
+- douban2.py
+实现爬取受欢迎书评
